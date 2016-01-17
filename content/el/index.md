@@ -1,22 +1,12 @@
 ---
-title: • Καλωσόρισμα | Pousada Jardim dos Anjos •
+title: Καλωσόρισμα
 author: nico
 date: 2015-01-14
+lang: el
 ---
 
+## Το Pousada <i>Jardim dos Anjos</i> βρίσκεται στην ευχάριστη θέση να σας παρουσιάσουμε!
 
-&nbsp;
-<div id="address" class="address"><b>Pousada <i>Jardim dos Anjos</i></b>
-Avda. Belem Qd. 16 Lot 01, Bairro Lindo Horizonte
-Abadiânia , Goias, Brasil, CEP 72940-000
-+55 62 3343 1793
-Skype: pousadajardimdosanjos3
-Email: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
-<a href="/">pousadajardimdosanjos.com</a>
-Google Maps : <a href="http://goo.gl/maps/aAvzR">http://goo.gl/maps/aAvzR</a>
-GPS : -16.18704°,-48.71°</div>
-<div id="gr" lang="gr">
-<h2>Το Pousada <i>Jardim dos Anjos</i> βρίσκεται στην ευχάριστη θέση να σας παρουσιάσουμε!</h2>
 <a href="http://goo.gl/maps/i1L2U"><span class="domInacio">Ένα 8-λεπτά με τα πόδια από το La Casa Dom Inácio</span></a>, <i>Ο Κήπος των Αγγέλων</i> αποτελείται από 32 δωμάτια, μεταξύ των οποίων 4 με την πρόσβαση σε χρήστες αναπηρικών αμαξιδίων.
 
 Μια τραπεζαρία με μπουφέ με σαλάτες, ζεστό μπουφέ, φρούτα και γλυκά satisfairons ως χορτοφάγοι από όσους τρώνε κρέας.
@@ -88,4 +78,3 @@ Dominique Guillaume, Photographe : <a href="http://www.phototheque-bretagne.com
 
 ☺ Φωτογραφίες April Wood
 
-</div>

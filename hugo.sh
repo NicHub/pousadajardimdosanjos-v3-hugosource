@@ -3,7 +3,7 @@
 case "$1" in
 
 github)
-    OUT_PATH="$HOME/Sites/pousadajardimdosanjos/site-web-v3-hugosource/"
+    OUT_PATH="$HOME/Sites/pousadajardimdosanjos/site-web-v3"
     # rm -rf $OUT_PATH # !! Ne pas effacer le répertoire .git !!
     echo "Génération des fichiers GitHub"
     hugo                                                                \

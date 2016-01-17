@@ -1,22 +1,12 @@
 ---
-title: • Benvenuto | Pousada Jardim dos Anjos •
+title: Benvenuto
 author: nico
 date: 2015-01-14
+lang: it
 ---
 
+## La Pousada <i>Jardim dos Anjos</i> è lieta di accogliervi presso la propria struttura
 
-&nbsp;
-<div id="address" class="address"><b>Pousada <i>Jardim dos Anjos</i></b>
-Avda. Belem Qd. 16 Lot 01, Bairro Lindo Horizonte
-Abadiânia , Goias, Brasil, CEP 72940-000
-+55 62 3343 1793
-Skype: pousadajardimdosanjos3
-Email: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
-<a href="/">pousadajardimdosanjos.com</a>
-Google Maps : <a href="http://goo.gl/maps/aAvzR">http://goo.gl/maps/aAvzR</a>
-GPS : -16.18704°,-48.71°</div>
-<div id="it" lang="it">
-<h2>La Pousada <i>Jardim dos Anjos</i> è lieta di accogliervi presso la propria struttura</h2>
 <a href="http://goo.gl/maps/i1L2U"><span class="domInacio">A 8 minuti a piedi da La Casa Dom Inácio</span></a>, <i>Giardino degli Angeli</i> è composto da 32 camere, di cui 4 con accesso per sedie a rotelle.
 
 Una sala da pranzo spaziosa che offre un buffet con insalate, una varieta’ di piatti caldi, frutta e dessert che saranno di gradimento sia per i vegetariani / vegani che per coloro che mangiano carne.
