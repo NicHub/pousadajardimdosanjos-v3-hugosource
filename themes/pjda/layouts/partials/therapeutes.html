@@ -1,0 +1,38 @@
+<div class="container">
+	<div class="section-title center">
+		<h2>Les <strong>thérapeutes</strong></h2>
+		<div class="line">
+			<hr />
+		</div>
+	</div>
+
+	<div id="therapeutes" class="row">
+		{{ range .Data.Pages }}
+		{{ if eq .Type "therapeutes" }}
+		{{ $TRPT_IMG    := .Params.infos.image | printf "%simages/%s" .Permalink }}
+		{{/*
+		<!--
+		pour 4 thérapeutes : col-sm = 12 / nb thérapeutes
+		<div class="col-xs-12 col-sm-3 {{ .Params.infos.prenom }}">
+		 -->
+		*/}}
+		<div class="col-xs-12 col-sm-4 {{ .Params.infos.prenom }}">
+			<div class="thumbnail">
+				<a href="{{ .Params.infos.url }}">
+					<img src="{{ $TRPT_IMG }}" alt="{{ .Params.infos.prenom }} {{ .Params.infos.nom }}" class="img-circle team-img" />
+					<div class="caption">
+						<h3>{{ .Params.infos.prenom }}<br/>{{ .Params.infos.nom }}</h3>
+						{{ range .Params.infos.specialites }}
+							<p>{{ . | safeHTML }}</p>
+						{{ end }}
+						<p><small><em>{{ .Params.infos.detail }}</em></small></p>
+						<p>{{ .Params.infos.tel | safeHTML }}</p>
+					</div>
+				</a>
+			</div>
+		</div>
+		{{ end }}
+		{{ end }}
+	</div>
+
+</div>

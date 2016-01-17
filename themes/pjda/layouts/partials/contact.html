@@ -1,0 +1,38 @@
+<div class="container">
+	<div class="row">
+		<div class="col-md-8 col-md-offset-2">
+			<div class="section-title center">
+				<h2>Pour prendre <strong>contact</strong> avec&#160;nous</h2>
+				<div class="line">
+					<hr />
+				</div>
+				<div class="clearfix"></div>
+				<div class="col-xs-12" style="padding-top: 30px; margin:30px 0;">
+						{{ range .Data.Pages }}
+						{{ if eq .Type "therapeutes" }}
+						{{ $TRPT_IMG    := .Params.infos.image | printf "%simages/%s" .Permalink }}
+						<div class="col-xs-12 col-sm-4">
+							<p><b><a href="{{ .Params.infos.url }}">{{ .Params.infos.prenom }}<br/>{{ .Params.infos.nom }}</a></b></p>
+							<p>
+							{{ range .Params.infos.specialites }}
+									<b>{{ .  | safeHTML }}</b><br/>
+							{{ end }}
+							</p>
+							<p><b>{{ .Params.infos.tel | safeHTML }}</b></p>
+							<p><b><i class="fa fa-angle-double-up"></i></b></p>
+						</div>
+						{{ end }}
+						{{ end }}
+				</div>
+{{/*<!--
+					<p><a title="Trouvez le CNL sur Google Maps" href="http://g.co/maps/8pfvw">Ch. de la Côte 6,<br />
+					CH–1032 Romanel-s/Lausanne</a></p>
+-->*/}}
+				<p>Ch. de la Côte 6,<br />
+				CH–1032 Romanel-s/Lausanne</p>
+				<p><a href="http://cnl-naturopathie.ch/">www.cnl-naturopathie.ch</a></p>
+				<p><a href="http://yellow.local.ch/fr/d/Romanel-sur-Lausanne/1032/Therapie-naturelle-naturopathie/Jordan-Grossrieder-Fabienne-HzyBYlFlUe1I_scMFFsukg?social=mail">Nous trouver sur local.ch</a><br />Stationnement en face de la maison du ch. des Tilleuls n°16.</p>
+			</div>
+		</div>
+	</div>
+</div>

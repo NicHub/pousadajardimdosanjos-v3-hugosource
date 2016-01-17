@@ -1,0 +1,56 @@
+<div class="container">
+    <div class="section-title center">
+        <h2>Citation du <strong>Dalaï-Lama</strong></h2>
+        <div class="line">
+            <hr />
+        </div>
+    </div>
+    <div class="space"></div>
+    <div class="row">
+        <div class="col-md-4 col-md-offset-4 service">
+            <p><i><span class="drop_cap">« C</span>e qui me surprend le plus dans l’humanité, ce sont les hommes eux-mêmes parce que d’abord ils perdent la santé pour accumuler de l’argent et ensuite ils perdent de l’argent pour retrouver la santé. Et à penser anxieusement au futur, ils oublient le présent de telle façon qu’ils finissent par vivre ni le présent, ni le futur. Ils vivent comme s’ils n’allaient jamais mourir et meurent comme s’ils n’avaient jamais vécu. »</i></p>
+        </div>
+    </div>
+
+    <div class="space" style="margin-top:100px;"></div>
+
+    <div class="section-title text-center center">
+        <h2>Les <strong>ressources</strong></h2>
+        <div class="line">
+            <hr />
+        </div>
+        <div class="clearfix"></div>
+        <small><em> </em></small>
+    </div>
+
+
+    <div id="lightbox_3" class="row row-centered">
+    {{ range .Data.Pages }}
+    {{ if eq .Type "ressources" }}
+        {{ $currentCategoryUrl := .Params.thumbnail.image | printf "%simages/%s" .Permalink }}
+        <div class="col-xs-12 col-sm-3 col-centered branding">
+            <div class="portfolio-item">
+                <div class="hover-bg">
+                    <a href="{{ .Permalink }}">
+                        <div class="non-hover-text">
+                            <h4><br/>{{ .Params.thumbnail.desc }}<br/></h4>
+                            <small> </small>
+                        </div>
+                        <div class="hover-text">
+                            <h4>{{ .Params.thumbnail.desc }}</h4>
+                            <small> </small>
+                            <div class="clearfix"></div>
+                            <i class="fa fa-plus"></i>
+                        </div>
+                        <img src="{{ $currentCategoryUrl }}" class="img-responsive" alt="..." />
+                    </a>
+                </div>
+            </div>
+        </div>
+    {{ end }}
+    {{ end }}
+    </div>
+
+
+
+</div>

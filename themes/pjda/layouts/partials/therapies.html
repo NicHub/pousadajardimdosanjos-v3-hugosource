@@ -1,0 +1,63 @@
+<div class="container">
+
+	<div class="section-title text-center center">
+		<h2>Les <strong>thérapies</strong></h2>
+		<div class="line">
+			<hr />
+		</div>
+		<div class="clearfix"></div>
+		<small><em> </em></small>
+	</div>
+
+	<div class="space"></div>
+
+<!--
+	<div class="categories">
+		<ul class="cat">
+			<li class="pull-left"><h4> </h4></li>
+			<li class="pull-right">
+				<ol class="type">
+					<li><a href="#" data-filter="*" class="active"><strong><em>Filter par thérapeute</em></strong> :        Tous les thérapeutes</a></li>
+					{{ range .Data.Pages }}
+					{{ if eq .Type "therapeutes" }}
+					<li><a href="#" data-filter=".{{ .Params.infos.prenom }}" >{{ .Params.infos.prenom }} {{ .Params.infos.nom }}</a></li>
+					{{ end }}
+					{{ end }}
+
+				</ol>
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	</div>
+
+	<div class="space"></div>
+ -->
+
+	<div id="lightbox_1" class="row">
+	{{ range .Data.Pages }}
+	{{ if eq .Type "therapies" }}
+	{{ $currentCategoryUrl := .Params.thumbnail.image | printf "%simages/%s" .Permalink }}
+		<div class="col-xs-6 col-sm-4 col-md-3 branding {{ .Params.thumbnail.therapeute }}">
+			<div class="portfolio-item">
+				<div class="hover-bg">
+					<a href="{{ .Permalink }}">
+						<div class="non-hover-text">
+							<h4><br/>{{ .Params.thumbnail.desc | safeHTML }}<br/></h4>
+							<small> </small>
+						</div>
+						<div class="hover-text">
+							<h4>{{ .Params.thumbnail.desc | safeHTML }}</h4>
+							<small> </small>
+							<div class="clearfix"></div>
+							<i class="fa fa-plus"></i>
+						</div>
+						<img src="{{ $currentCategoryUrl }}" class="img-responsive" alt="..." />
+					</a>
+				</div>
+			</div>
+		</div>
+	{{ end }}
+	{{ end }}
+	</div>
+
+</div>

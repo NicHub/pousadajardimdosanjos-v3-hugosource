@@ -1,0 +1,10 @@
+theme            = "pjda"
+baseurl          = "http://pousadajardimdosanjos.com/"
+
+canonifyurls     = true
+languageCode     = "fr-fr"
+title            = "Pousada Jardim dos Anjos"
+disableRSS       = true
+[params]
+    Webmaster          = '<a href="mailto:nicolas.jeanmonod@bluewin.ch">Nicolas Jeanmonod</a>'
+    CopyrightHTML      = "© pousadajardimdosanjos.com"
