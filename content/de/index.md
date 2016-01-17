@@ -71,7 +71,7 @@ Dominique Guillaume, Photographe : <a href="http://www.phototheque-bretagne.com
 
 <h1>Haus zur Miete</h1>
 <h2>Casa santuario</h2>
-Schönes Haus zur Miete in der Nähe Abadiânia der Casa de Dom Inácio : 3 Schlafzimmer, 3 Bäder, große Terrasse.
+Schönes Haus zur Miete in der Nähe Abadiânia der Casa de Dom Inácio : 3 Schlafzimmer, 3 Bäder, große Terrasse.
 
 Kontaktieren Sie uns: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
 

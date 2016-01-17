@@ -70,7 +70,7 @@ Dominique Guillaume, Photographe : <a href="http://www.phototheque-bretagne.com
 
 <h1>Casa da affittare</h1>
 <h2>Casa santuario</h2>
-Bella casa in affitto a Abadiânia nei pressi della Casa de Dom Inácio : 3 camere da letto, 3 bagni, ampio patio esterno.
+Bella casa in affitto a Abadiânia nei pressi della Casa de Dom Inácio : 3 camere da letto, 3 bagni, ampio patio esterno.
 
 Contattaci: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
 
