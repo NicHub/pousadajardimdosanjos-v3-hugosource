@@ -52,21 +52,8 @@ R$ 95 για R$ 135
 <!-- Vide -->
 <h1>σύνδεσμοι</h1>
 <h2>Επισκεφθείτε τους φίλους μας!</h2>
-Diego &amp; Sonia, Abadiania infos : <a href="http://www.abadianiaportal.com" target="_blank">www.abadianiaportal.com</a>
 
-Deb Court, Abadiania infos : <a href="http://www.friendsofthecasa.info" target="_blank">www.friendsofthecasa.info</a>
-
-Barbara Brodsky, Casa guide : <a href="http://www.vipassanahealing.com/" target="_blank">www.vipassanahealing.com</a>
-
-Deb Court, Casa guide : <a href="http://www.guidetojohnofgod.com" target="_blank">www.guidetojohnofgod.com</a>
-
-Amy and Markus Koch — Guides for John of God : <a href="http://www.guidesforjohnofgod.com/" target="_blank">www.guidesforjohnofgod.com</a>
-
-Hayette Weidmann, Casa guide : <a href="http://pontsdelumiere.com" target="_blank">pontsdelumiere.com</a>
-
-Pavel Antonov, Photographe : <a href="http://www.pavelantonov.com" target="_blank">www.pavelantonov.com</a>
-
-Dominique Guillaume, Photographe : <a href="http://www.phototheque-bretagne.com/" target="_blank">www.phototheque-bretagne.com/</a>
+{{< links >}}
 
 <h1>σπίτι προς ενοικίαση</h1>
 <h2>Casa santuario (σπίτι ιερό)</h2>
