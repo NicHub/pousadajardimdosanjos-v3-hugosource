@@ -20,32 +20,48 @@ Un salotto per rilassarsi e una sala riunioni per i gruppi.
 Saremo ben lieti di incontrarvi presto alla <i>Pousada Jardim dos Anjos</i>.
 
 <h1 id="photos_chambres_deluxes">Camere Deluxe</h1>
+
 [metaslider id=233]
 
 <h1 id="photos_chambres_standards">Le camere standard</h1>
+
 [metaslider id=248]
 
 <h1 id="photos_coin-repas">Ristorante</h1>
+
 [metaslider id=255]
 
 <h1 id="photos_jardins">I giardini</h1>
+
 [metaslider id=264]
 
-<div style="display: none;">
-<h1>Foto</h1>
-[metaslider id=92]
-*Fotos di Pasha Antonov: <a href="http://www.pavelantonov.com">www.pavelantonov.com</a>
-</div>
+<!--
+# Foto
 
-<h1>Listino prezzi</h1>
+[metaslider id=92]
+
+*Fotos di Pasha Antonov: <a href="http://www.pavelantonov.com">www.pavelantonov.com</a>
+-->
+
+
+# Listino prezzi
+
 Le nostre tariffe includono il pernottamento per una persona, al giorno, con 3 pasti, <em>eccetto domenico mezzogiorno</em>.
-<h2>1 persona per camera</h2>
+
+## 1 persona per camera
+
 R$ 105 a R$ 165
-<h2>2 persone per camera</h2>
+
+## 2 persone per camera
+
 R$ 95 a R$ 150 per persone
-<h2>3 persone per camera</h2>
+
+## 3 persone per camera
+
 R$ 95 a R$ 135 per persone
-<h2>Prezzi per bambini</h2>
+
+## Prezzi per bambini
+
 0 – 8 anni: gratis
 
 8 – 14 anni: R$ 75
@@ -57,13 +73,18 @@ A partire da 14 anni: Tariffa adulti
 -->
 <!-- Vide -->
 
-<h1>Links</h1>
-<h2>Visitare i nostri amici!</h2>
+
+# Links
+
+## Visitare i nostri amici!
 
 {{< links >}}
 
-<h1>Casa da affittare</h1>
-<h2>Casa santuario</h2>
+
+# Casa da affittare
+
+## Casa santuario
+
 Bella casa in affitto a Abadiânia nei pressi della Casa de Dom Inácio : 3 camere da letto, 3 bagni, ampio patio esterno.
 
 Contattaci: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>

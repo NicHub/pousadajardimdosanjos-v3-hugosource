@@ -18,30 +18,50 @@ We have free WiFi, a lounge to relax and a meeting room for groups.
 The Pousada <i>Jardim dos Anjos</i> is pleased to welcome you.
 
 We look forward to seeing you at Pousada <i>Jardim dos Anjos</i> in Abadiânia!
+
 <h1 id="photos_chambres_deluxes">Deluxe Rooms</h1>
+
 [metaslider id=233]
+
 <h1 id="photos_chambres_standards">Standard Rooms</h1>
+
 [metaslider id=248]
+
 <h1 id="photos_coin-repas">Restaurant</h1>
+
 [metaslider id=255]
+
 <h1 id="photos_jardins">The Gardens</h1>
+
 [metaslider id=264]
-<div style="display: none;">
-<h1>Photos</h1>
+
+<!--
+# Photos
+
 [metaslider id=92]
 
 *Photos by Pasha Antonov: <a href="http://www.pavelantonov.com">www.pavelantonov.com</a>
+-->
 
-</div>
-<h1>Price List</h1>
+
+# Price List
+
 Our rates include accommodation for one person, per day, with 3 meals, <em>except lunch on Sunday</em>.
-<h2>1 person per room</h2>
+
+## 1 person per room
+
 R$ 105 to R$ 165
-<h2>2 persons per room</h2>
+
+## 2 persons per room
+
 R$ 95 to R$ 150 per person
-<h2>3 persons per room</h2>
+
+## 3 persons per room
+
 R$ 95 to R$ 135 per person
-<h2>Children rates</h2>
+
+## Children rates
+
 0 – 8 years: Free
 
 8 – 14 years: R$ 75
@@ -52,14 +72,19 @@ From 14 years: Adult rate
 <h1>Testimonials</h1>
 -->
 <!-- Vide -->
-<h1>Links</h1>
-<h2>Visit our friends!</h2>
+
+
+# Links
+
+## Visit our friends!
 
 {{< links >}}
 
 
-<h1>House to rent</h1>
-<h2>Casa santuario</h2>
+# House to rent
+
+## Casa santuario
+
 Beautiful house to rent in Abadiânia near the Casa de Dom Inácio: 3 bedrooms, 3 bath, large outdoor patio.
 
 Contact: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
@@ -67,4 +92,3 @@ Contact: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.b
 [metaslider id=186]
 
 ☺ Photos April Wood
-
