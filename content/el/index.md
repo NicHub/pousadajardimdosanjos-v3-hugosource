@@ -1,9 +1,11 @@
 ---
 title: Καλωσόρισμα
 author: nico
-date: 2015-01-14
+date: 2016-01-19
 lang: el
 ---
+
+{{< adresse >}}
 
 ## Το Pousada <i>Jardim dos Anjos</i> βρίσκεται στην ευχάριστη θέση να σας παρουσιάσουμε!
 
@@ -64,4 +66,3 @@ R$ 95 για R$ 135
 [metaslider id=186]
 
 ☺ Φωτογραφίες April Wood
-

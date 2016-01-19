@@ -1,9 +1,11 @@
 ---
 title: Wilkommen
 author: nico
-date: 2016-01-17
+date: 2016-01-19
 lang: de
 ---
+
+{{< adresse >}}
 
 ## Die Pousada <i>Jardim dos Anjos</i><br />freut sich zu präsentieren
 
@@ -70,4 +72,3 @@ Kontaktieren Sie uns: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjo
 [metaslider id=186]
 
 ☺ Fotos von April Wood
-

@@ -5,7 +5,6 @@
 		<h1 class="entry-title">{{ .Title | safeHTML }}</h1>
 	</header><!-- .entry-header -->
 	<div class="entry-content">
-		{{ partial "adresse.html" . }}
 		<div id="{{ .Params.lang }}" lang="{{ .Params.lang }}">
 		{{ .Content }}
 		</div>
