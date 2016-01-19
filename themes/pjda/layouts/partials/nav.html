@@ -4,12 +4,12 @@
 		<a class="screen-reader-text skip-link" href="#content" title="Aller au contenu principal">Aller au contenu principal</a>
 		<div class="menu-menu-1-container">
 			<ul id="menu-menu-1" class="nav-menu">
-				<li id="menu-item-24" class="{{ if isset .Params "lang" }}{{ if eq .Params.lang "pt" }}current-menu-item{{ end }}{{ end }} menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="/pt/">Português</a></li>
-				<li id="menu-item-25" class="{{ if isset .Params "lang" }}{{ if eq .Params.lang "en" }}current-menu-item{{ end }}{{ end }} menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/en/">English</a></li>
-				<li id="menu-item-26" class="{{ if isset .Params "lang" }}{{ if eq .Params.lang "fr" }}current-menu-item{{ end }}{{ end }} menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="/fr/">Français</a></li>
-				<li id="menu-item-27" class="{{ if isset .Params "lang" }}{{ if eq .Params.lang "it" }}current-menu-item{{ end }}{{ end }} menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="/it/">Italiano</a></li>
-				<li id="menu-item-28" class="{{ if isset .Params "lang" }}{{ if eq .Params.lang "el" }}current-menu-item{{ end }}{{ end }} menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="/el/">Ελληνικά</a></li>
-				<li id="menu-item-29" class="{{ if isset .Params "lang" }}{{ if eq .Params.lang "de" }}current-menu-item{{ end }}{{ end }} menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="/de/">Deutsch</a></li>
+				<li id="menu-item-24" class="{{ if .IsPage }}{{ if eq $.RelPermalink "/pt/" }}current-menu-item {{ end }}{{ end }}menu-item menu-item-type-custom menu-item-object-custom menu-item-24"><a href="/pt/">Português</a></li>
+				<li id="menu-item-25" class="{{ if .IsPage }}{{ if eq $.RelPermalink "/en/" }}current-menu-item {{ end }}{{ end }}menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/en/">English</a></li>
+				<li id="menu-item-26" class="{{ if .IsPage }}{{ if eq $.RelPermalink "/fr/" }}current-menu-item {{ end }}{{ end }}menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="/fr/">Français</a></li>
+				<li id="menu-item-27" class="{{ if .IsPage }}{{ if eq $.RelPermalink "/it/" }}current-menu-item {{ end }}{{ end }}menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="/it/">Italiano</a></li>
+				<li id="menu-item-28" class="{{ if .IsPage }}{{ if eq $.RelPermalink "/el/" }}current-menu-item {{ end }}{{ end }}menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="/el/">Ελληνικά</a></li>
+				<li id="menu-item-29" class="{{ if .IsPage }}{{ if eq $.RelPermalink "/de/" }}current-menu-item {{ end }}{{ end }}menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="/de/">Deutsch</a></li>
 			</ul>
 		</div>
 		<form role="search" method="get" class="search-form" action="/">
