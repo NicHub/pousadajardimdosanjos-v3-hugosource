@@ -5,6 +5,9 @@ date: 2016-01-19
 lang: fr
 ---
 
+# Accueil
+{{< accueil >}}
+
 # Chambres Deluxes
 {{< chambres-deluxes >}}
 
