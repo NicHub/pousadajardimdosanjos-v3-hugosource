@@ -7,7 +7,7 @@ lang: en
 
 {{< adresse >}}
 
-## We are pleased to present to you Pousada <i>Jardim dos Anjos!</i>
+## We are pleased to present to you Pousada<br /><i>Jardim dos Anjos!</i>
 
 <a href="http://goo.gl/maps/i1L2U"><span class="domInacio">An 8-minute walk from the Casa Dom Inácio</span></a>, the <i>Garden of Angels</i> is composed of 32 rooms, including 4 rooms with wheelchair access.
 

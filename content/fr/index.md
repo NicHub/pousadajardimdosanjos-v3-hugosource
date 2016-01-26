@@ -7,7 +7,7 @@ lang: fr
 
 {{< adresse >}}
 
-## La pousada <i>Jardim dos Anjos</i><br />est heureuse de se présenter à vous !
+## La pousada <i>Jardim dos Anjos</i><br />est heureuse de se présenter à vous !
 
 <a href="http://goo.gl/maps/i1L2U"><span class="domInacio">Située à 8 minutes à pied de La Casa dom Inácio</span></a>, <i>Le Jardin des Anges</i> est composé de 32 chambres, dont 4 avec accès pour personne en fauteuil roulant.
 
@@ -19,19 +19,19 @@ Un salon pour se détendre et une salle de réunion pour les groupes.
 
 Nous nous réjouissons beaucoup de vous accueillir prochainement à la pousada <i>Jardim dos Anjos</i>.
 
-<h1 id="photos_chambres_deluxes_I">Les chambres Deluxes I</h1>
+<h1 id="photos_chambres_deluxes_I">Les chambres Deluxes I</h1>
 
 {{< carousel-v2-chambres-deluxes-I >}}
 
-<h1 id="photos_chambres_deluxes_II">Les chambres Deluxes II</h1>
+<h1 id="photos_chambres_deluxes_II">Les chambres Deluxes II</h1>
 {{< carousel-v2-chambres-deluxes-II >}}
 
 
-<h1 id="photos_chambres_standards_I">Les chambres standards I</h1>
+<h1 id="photos_chambres_standards_I">Les chambres standards I</h1>
 
 {{< carousel-v2-chambres-standards-I >}}
 
-<h1 id="photos_chambres_standards_II">Les chambres standards II</h1>
+<h1 id="photos_chambres_standards_II">Les chambres standards II</h1>
 
 {{< carousel-v2-chambres-standards-II >}}
 

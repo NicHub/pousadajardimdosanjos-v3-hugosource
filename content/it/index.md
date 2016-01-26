@@ -7,7 +7,7 @@ lang: it
 
 {{< adresse >}}
 
-## La Pousada <i>Jardim dos Anjos</i> è lieta di accogliervi presso la propria struttura
+## La Pousada <i>Jardim dos Anjos</i> è lieta di accogliervi presso la propria struttura
 
 <a href="http://goo.gl/maps/i1L2U"><span class="domInacio">A 8 minuti a piedi da La Casa Dom Inácio</span></a>, <i>Giardino degli Angeli</i> è composto da 32 camere, di cui 4 con accesso per sedie a rotelle.
 

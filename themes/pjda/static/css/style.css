@@ -2832,7 +2832,9 @@ footer.entry-meta {
 	}
 }
 
-@media (max-width: 643px) {
+/* problème avec menu Hugo */
+/*@media (max-width: 643px) {*/
+@media (max-width: 1px) {
 	.site-title {
 		font-size: 30px;
 	}
@@ -3544,9 +3546,23 @@ form.search-form
 }
 
 @media (max-width: 600px) {
-	.metaslider
+	.metaslider,
+	h1#photos_chambres_deluxes_I,
+	h1#photos_chambres_deluxes_II,
+	h1#photos_chambres_standards_I,
+	h1#photos_chambres_standards_II,
+	h1#photos_chambres_superieures,
+	h1#photos_restaurant,
+	h1#photos_jardins,
+	h1#photos_chambres_deluxes,
+	h1#photos_chambres_standards,
+	h1#photos_coin-repas,
+	h1#photos_jardins
 	{
 		display: none;
+	}
+	.site-header {
+		background-image: none !important;
 	}
 }
 
@@ -3557,3 +3573,6 @@ form.search-form
 	}
 }
 
+div.liens p {
+	margin-top: 20px;
+}

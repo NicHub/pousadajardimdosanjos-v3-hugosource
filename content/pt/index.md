@@ -7,7 +7,7 @@ lang: pt
 
 {{< adresse >}}
 
-## A Pousada <i>Jardim dos Anjos</i> tem o prazer de apresentar a você.
+## A Pousada <i>Jardim dos Anjos</i><br />tem o prazer de apresentar a você
 
 <a href="http://goo.gl/maps/i1L2U"><span class="domInacio">Uma caminhada de 8 minutos de La Casa de Dom Inácio</span></a>, <i>Jardim dos Anjos</i> é composto por 32 quartos, incluindo 4 com acesso para usuários de cadeira de rodas.
 
