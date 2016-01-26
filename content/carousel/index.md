@@ -6,19 +6,19 @@ lang: fr
 ---
 
 # Accueil
-{{< accueil >}}
+{{< carousel-v1-accueil >}}
 
 # Chambres Deluxes
-{{< chambres-deluxes >}}
+{{< carousel-v1-chambres-deluxes >}}
 
 # Chambres Standards
-{{< chambres-standards >}}
+{{< carousel-v1-chambres-standards >}}
 
 # Restaurant
-{{< restaurant >}}
+{{< carousel-v1-restaurant >}}
 
 # Jardins
-{{< jardins >}}
+{{< carousel-v1-jardins >}}
 
 # Maison à louer
-{{< maison-a-louer >}}
+{{< carousel-v1-maison-a-louer >}}

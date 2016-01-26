@@ -21,19 +21,19 @@ lang: el
 
 <h1 id="photos_chambres_deluxes">Deluxe δωμάτια</h1>
 
-[metaslider id=233]
+{{< carousel-v1-chambres-deluxes >}}
 
 <h1 id="photos_chambres_standards">Standard δωμάτια</h1>
 
-[metaslider id=248]
+{{< carousel-v1-chambres-standards >}}
 
 <h1 id="photos_coin-repas">Restaurant</h1>
 
-[metaslider id=255]
+{{< carousel-v1-restaurant >}}
 
 <h1 id="photos_jardins">Οι κήποι</h1>
 
-[metaslider id=264]
+{{< carousel-v1-jardins >}}
 
 <!--
 # Φωτογραφίες
@@ -89,6 +89,6 @@ R$ 95 για R$ 135
 
 Επικοινωνήστε μαζί μας: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
 
-[metaslider id=186]
+{{< carousel-v1-maison-a-louer >}}
 
 ☺ Φωτογραφίες April Wood

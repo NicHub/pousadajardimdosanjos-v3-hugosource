@@ -21,19 +21,19 @@ Nous nous réjouissons beaucoup de vous accueillir prochainement à la pousada <
 
 <h1 id="photos_chambres_deluxes">Les chambres Deluxes</h1>
 
-[metaslider id=233]
+{{< carousel-v1-chambres-deluxes >}}
 
 <h1 id="photos_chambres_standards">Les chambres standards</h1>
 
-[metaslider id=248]
+{{< carousel-v1-chambres-standards >}}
 
 <h1 id="photos_coin-repas">Restaurant</h1>
 
-[metaslider id=255]
+{{< carousel-v1-restaurant >}}
 
 <h1 id="photos_jardins">Les jardins</h1>
 
-[metaslider id=264]
+{{< carousel-v1-jardins >}}
 
 <!--
 <h1 id="photos">Photos</h1>
@@ -89,6 +89,6 @@ Belle maison à louer à Abadiânia près de la Casa de Dom Inácio : 3 chambr
 
 Contact: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
 
-[metaslider id=186]
+{{< carousel-v1-maison-a-louer >}}
 
 ☺ Photos April Wood

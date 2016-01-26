@@ -20,16 +20,16 @@ Um lounge para relaxar, e uma sala de reuniões para grupos.
 Estamos muito felizes em conhecê-lo em breve no <i>Jardim Pousada dos Anjos</i>.
 
 <h1 id="photos_chambres_deluxes">Quartos “deluxes”</h1>
-[metaslider id=233]
+{{< carousel-v1-chambres-deluxes >}}
 
 <h1 id="photos_chambres_standards">Quartos “standards”</h1>
-[metaslider id=248]
+{{< carousel-v1-chambres-standards >}}
 
 <h1 id="photos_coin-repas">Restorante</h1>
-[metaslider id=255]
+{{< carousel-v1-restaurant >}}
 
 <h1 id="photos_jardins">Jardim</h1>
-[metaslider id=264]
+{{< carousel-v1-jardins >}}
 
 <div style="display: none;">
 <h1 id="photos">Fotos</h1>
@@ -72,6 +72,6 @@ Linda casa para alugar perto da Casa: 3 quartos, 3 banheiros, amplo pátio ao ar
 
 Contato: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
 
-[metaslider id=186]
+{{< carousel-v1-maison-a-louer >}}
 
 ☺ Fotos April Wood

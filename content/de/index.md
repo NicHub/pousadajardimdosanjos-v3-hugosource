@@ -21,19 +21,19 @@ Wir freuen uns, sie bald zu treffen in der Pousada <i>Jardim dos Anjos</i> in Ab
 
 <h1 id="photos_chambres_deluxes">Zimmer Deluxe</h1>
 
-[metaslider id=233]
+{{< carousel-v1-chambres-deluxes >}}
 
 <h1 id="photos_chambres_standards">Die Standard-Zimmer</h1>
 
-[metaslider id=248]
+{{< carousel-v1-chambres-standards >}}
 
 <h1 id="photos_coin-repas">Die Essecke</h1>
 
-[metaslider id=255]
+{{< carousel-v1-restaurant >}}
 
 <h1 id="photos_jardins">Die Gärten</h1>
 
-[metaslider id=264]
+{{< carousel-v1-jardins >}}
 
 <!--
 # Bilder
@@ -89,6 +89,6 @@ Schönes Haus zur Miete in der Nähe Abadiânia der Casa de Dom Inácio : 3 Sc
 
 Kontaktieren Sie uns: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.br</a>
 
-[metaslider id=186]
+{{< carousel-v1-maison-a-louer >}}
 
 ☺ Fotos von April Wood
