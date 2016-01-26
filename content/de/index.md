@@ -29,7 +29,7 @@ Wir freuen uns, sie bald zu treffen in der Pousada <i>Jardim dos Anjos</i> in Ab
 
 <h1 id="photos_coin-repas">Die Essecke</h1>
 
-{{< carousel-v1-restaurant >}}
+{{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">Die Gärten</h1>
 

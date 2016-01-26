@@ -29,7 +29,7 @@ lang: el
 
 <h1 id="photos_coin-repas">Restaurant</h1>
 
-{{< carousel-v1-restaurant >}}
+{{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">Οι κήποι</h1>
 

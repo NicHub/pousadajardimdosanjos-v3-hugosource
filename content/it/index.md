@@ -29,7 +29,7 @@ Saremo ben lieti di incontrarvi presto alla <i>Pousada Jardim dos Anjos</i>.
 
 <h1 id="photos_coin-repas">Ristorante</h1>
 
-{{< carousel-v1-restaurant >}}
+{{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">I giardini</h1>
 
@@ -44,7 +44,7 @@ Saremo ben lieti di incontrarvi presto alla <i>Pousada Jardim dos Anjos</i>.
 -->
 
 
-# Listino prezzi
+# Listino prezzi
 
 Le nostre tariffe includono il pernottamento per una persona, al giorno, con 3 pasti, <em>eccetto domenico mezzogiorno</em>.
 
@@ -83,7 +83,7 @@ A partire da 14 anni: Tariffa adulti
 
 # Casa da affittare
 
-## Casa santuario
+## Casa santuario
 
 Bella casa in affitto a Abadiânia nei pressi della Casa de Dom Inácio : 3 camere da letto, 3 bagni, ampio patio esterno.
 

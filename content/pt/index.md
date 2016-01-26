@@ -26,7 +26,7 @@ Estamos muito felizes em conhecê-lo em breve no <i>Jardim Pousada dos Anjos</i>
 {{< carousel-v1-chambres-standards >}}
 
 <h1 id="photos_coin-repas">Restorante</h1>
-{{< carousel-v1-restaurant >}}
+{{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">Jardim</h1>
 {{< carousel-v1-jardins >}}

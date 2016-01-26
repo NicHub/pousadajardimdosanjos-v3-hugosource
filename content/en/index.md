@@ -1,7 +1,7 @@
 ---
 title: Welcome
 author: nico
-date: 2015-01-14
+date: 2016-01-19
 lang: en
 ---
 
@@ -29,7 +29,7 @@ We look forward to seeing you at Pousada <i>Jardim dos Anjos</i> in Abadiânia!
 
 <h1 id="photos_coin-repas">Restaurant</h1>
 
-{{< carousel-v1-restaurant >}}
+{{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">The Gardens</h1>
 
@@ -76,14 +76,14 @@ From 14 years: Adult rate
 
 # Links
 
-## Visit our friends!
+## Visit our friends!
 
 {{< links >}}
 
 
 # House to rent
 
-## Casa santuario
+## Casa santuario
 
 Beautiful house to rent in Abadiânia near the Casa de Dom Inácio: 3 bedrooms, 3 bath, large outdoor patio.
 

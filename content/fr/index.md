@@ -19,21 +19,34 @@ Un salon pour se détendre et une salle de réunion pour les groupes.
 
 Nous nous réjouissons beaucoup de vous accueillir prochainement à la pousada <i>Jardim dos Anjos</i>.
 
-<h1 id="photos_chambres_deluxes">Les chambres Deluxes</h1>
+<h1 id="photos_chambres_deluxes_I">Les chambres Deluxes I</h1>
 
-{{< carousel-v1-chambres-deluxes >}}
+{{< carousel-v2-chambres-deluxes-I >}}
 
-<h1 id="photos_chambres_standards">Les chambres standards</h1>
+<h1 id="photos_chambres_deluxes_II">Les chambres Deluxes II</h1>
+{{< carousel-v2-chambres-deluxes-II >}}
 
-{{< carousel-v1-chambres-standards >}}
 
-<h1 id="photos_coin-repas">Restaurant</h1>
+<h1 id="photos_chambres_standards_I">Les chambres standards I</h1>
 
-{{< carousel-v1-restaurant >}}
+{{< carousel-v2-chambres-standards-I >}}
+
+<h1 id="photos_chambres_standards_II">Les chambres standards II</h1>
+
+{{< carousel-v2-chambres-standards-II >}}
+
+<h1 id="photos_chambres_superieures">Les chambres supérieures</h1>
+
+{{< carousel-v2-chambres-superieures >}}
+
+
+<h1 id="photos_restaurant">Restaurant</h1>
+
+{{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">Les jardins</h1>
 
-{{< carousel-v1-jardins >}}
+{{< carousel-v2-jardins >}}
 
 <!--
 <h1 id="photos">Photos</h1>
@@ -52,7 +65,7 @@ Nos tarifs comprennent le logement par personne, par jour, avec 3 repas, <em>sa
 
 105 R$ à 165 R$
 
-## 2 personnes par chambre
+## 2 personnes par chambre
 
 95 R$ à 150 R$ par personne
 
@@ -76,7 +89,7 @@ Dès 14 ans : Tarif adulte
 
 # Liens
 
-## Visitez nos amis !
+## Visitez nos amis !
 
 {{< links >}}
 
