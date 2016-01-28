@@ -19,21 +19,34 @@ Eine lounge zum entspannen, und ein tagungsraum für gruppen.
 
 Wir freuen uns, sie bald zu treffen in der Pousada <i>Jardim dos Anjos</i> in Abadiânia!
 
-<h1 id="photos_chambres_deluxes">Zimmer Deluxe</h1>
+<h1 id="photos_chambres_deluxes_I">Zimmer Deluxe I</h1>
 
-{{< carousel-v1-chambres-deluxes >}}
+{{< carousel-v2-chambres-deluxes-I >}}
 
-<h1 id="photos_chambres_standards">Die Standard-Zimmer</h1>
+<h1 id="photos_chambres_deluxes_II">Zimmer Deluxe II</h1>
 
-{{< carousel-v1-chambres-standards >}}
+{{< carousel-v2-chambres-deluxes-II >}}
 
-<h1 id="photos_coin-repas">Die Essecke</h1>
+<h1 id="photos_chambres_standards_I">Die Standard-Zimmer I</h1>
+
+{{< carousel-v2-chambres-standards-I >}}
+
+<h1 id="photos_chambres_standards_II">Die Standard-Zimmer II</h1>
+
+{{< carousel-v2-chambres-standards-II >}}
+
+<h1 id="photos_chambres_superieures">Die Superior-Zimmer</h1>
+
+{{< carousel-v2-chambres-superieures >}}
+
+
+<h1 id="photos_restaurant">Das Restaurant</h1>
 
 {{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">Die Gärten</h1>
 
-{{< carousel-v1-jardins >}}
+{{< carousel-v2-jardins >}}
 
 <!--
 # Bilder

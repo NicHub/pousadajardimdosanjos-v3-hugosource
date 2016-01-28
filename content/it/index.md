@@ -19,21 +19,34 @@ Un salotto per rilassarsi e una sala riunioni per i gruppi.
 
 Saremo ben lieti di incontrarvi presto alla <i>Pousada Jardim dos Anjos</i>.
 
-<h1 id="photos_chambres_deluxes">Camere Deluxe</h1>
+<h1 id="photos_chambres_deluxes_I">Camere Deluxe I</h1>
 
-{{< carousel-v1-chambres-deluxes >}}
+{{< carousel-v2-chambres-deluxes-I >}}
 
-<h1 id="photos_chambres_standards">Le camere standard</h1>
+<h1 id="photos_chambres_deluxes_II">Camere Deluxe II</h1>
 
-{{< carousel-v1-chambres-standards >}}
+{{< carousel-v2-chambres-deluxes-II >}}
 
-<h1 id="photos_coin-repas">Ristorante</h1>
+<h1 id="photos_chambres_standards_I">Le camere standard I</h1>
+
+{{< carousel-v2-chambres-standards-I >}}
+
+<h1 id="photos_chambres_standards_II">Le camere standard II</h1>
+
+{{< carousel-v2-chambres-standards-II >}}
+
+<h1 id="photos_chambres_superieures">Le camere superior</h1>
+
+{{< carousel-v2-chambres-superieures >}}
+
+
+<h1 id="photos_restaurant">Ristorante</h1>
 
 {{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">I giardini</h1>
 
-{{< carousel-v1-jardins >}}
+{{< carousel-v2-jardins >}}
 
 <!--
 # Foto

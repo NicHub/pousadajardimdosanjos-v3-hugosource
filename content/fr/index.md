@@ -24,8 +24,8 @@ Nous nous réjouissons beaucoup de vous accueillir prochainement à la pousada <
 {{< carousel-v2-chambres-deluxes-I >}}
 
 <h1 id="photos_chambres_deluxes_II">Les chambres Deluxes II</h1>
-{{< carousel-v2-chambres-deluxes-II >}}
 
+{{< carousel-v2-chambres-deluxes-II >}}
 
 <h1 id="photos_chambres_standards_I">Les chambres standards I</h1>
 

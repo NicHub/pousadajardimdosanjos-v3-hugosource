@@ -3,6 +3,7 @@ title: Carousel<br/>Ancienne version
 author: nico
 date: 2016-01-26
 lang: fr
+draft: true
 ---
 
 

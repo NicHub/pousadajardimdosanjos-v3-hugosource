@@ -19,40 +19,66 @@ Um lounge para relaxar, e uma sala de reuniões para grupos.
 
 Estamos muito felizes em conhecê-lo em breve no <i>Jardim Pousada dos Anjos</i>.
 
-<h1 id="photos_chambres_deluxes">Quartos “deluxes”</h1>
-{{< carousel-v1-chambres-deluxes >}}
+<h1 id="photos_chambres_deluxes_I">Quartos “deluxes” I</h1>
 
-<h1 id="photos_chambres_standards">Quartos “standards”</h1>
-{{< carousel-v1-chambres-standards >}}
+{{< carousel-v2-chambres-deluxes-I >}}
 
-<h1 id="photos_coin-repas">Restorante</h1>
+<h1 id="photos_chambres_deluxes_II">Quartos “deluxes” II</h1>
+
+{{< carousel-v2-chambres-deluxes-II >}}
+
+<h1 id="photos_chambres_standards_I">Quartos “standards” I</h1>
+
+{{< carousel-v2-chambres-standards-I >}}
+
+<h1 id="photos_chambres_standards_II">Quartos “standards” II</h1>
+
+{{< carousel-v2-chambres-standards-II >}}
+
+<h1 id="photos_chambres_superieures">Quartos “superior”</h1>
+
+{{< carousel-v2-chambres-superieures >}}
+
+
+<h1 id="photos_restaurant">Restorante</h1>
+
 {{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">Jardim</h1>
-{{< carousel-v1-jardins >}}
 
-<div style="display: none;">
+{{< carousel-v2-jardins >}}
+
+<!--
 <h1 id="photos">Fotos</h1>
+
 [metaslider id=92]
+
 *Fotos: Pasha Antonov: <a href="http://www.pavelantonov.com">www.pavelantonov.com</a>
-</div>
+-->
+
 
 # Lista de preços
 
 Nossas tarifas incluem alojamento para uma pessoa, por dia, com 3 refeições.
 
 ## 1 pessoa por quarto
+
 R$ 105 a R$ 165
 
 ## 2 pessoas por quarto
+
 R$ 95 a R$ 150 per pessoas
 
 ## 3 pessoas por quarto
+
 R$ 95 a R$ 135 per pessoas
 
 ## Taxas de crianças
+
 0 – 8 anos: Grátis<br />
+
 8 – 14 anos: R$ 75<br />
+
 A partir dos 14 anos: tarifa de adulto
 
 <!--
@@ -60,12 +86,16 @@ A partir dos 14 anos: tarifa de adulto
 -->
 <!-- Vide -->
 
-<h1 id="links">Ligações</h1>
+
+# Ligações
+
 ## Visite os nossos amigos!
 
 {{< links >}}
 
-<h1 id="house_to_rent">Aluguer Casa</h1>
+
+# Aluguer Casa
+
 ## Casa santuario
 
 Linda casa para alugar perto da Casa: 3 quartos, 3 banheiros, amplo pátio ao ar livre.

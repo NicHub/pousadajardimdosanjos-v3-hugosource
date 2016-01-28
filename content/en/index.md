@@ -19,21 +19,34 @@ The Pousada <i>Jardim dos Anjos</i> is pleased to welcome you.
 
 We look forward to seeing you at Pousada <i>Jardim dos Anjos</i> in Abadiânia!
 
-<h1 id="photos_chambres_deluxes">Deluxe Rooms</h1>
+<h1 id="photos_chambres_deluxes_I">Deluxe Rooms I</h1>
 
-{{< carousel-v1-chambres-deluxes >}}
+{{< carousel-v2-chambres-deluxes-I >}}
 
-<h1 id="photos_chambres_standards">Standard Rooms</h1>
+<h1 id="photos_chambres_deluxes_II">Deluxe Rooms II</h1>
 
-{{< carousel-v1-chambres-standards >}}
+{{< carousel-v2-chambres-deluxes-II >}}
 
-<h1 id="photos_coin-repas">Restaurant</h1>
+<h1 id="photos_chambres_standards_I">Standard Rooms I</h1>
+
+{{< carousel-v2-chambres-standards-I >}}
+
+<h1 id="photos_chambres_standards_II">Standard Rooms II</h1>
+
+{{< carousel-v2-chambres-standards-II >}}
+
+<h1 id="photos_chambres_superieures">Superior Rooms</h1>
+
+{{< carousel-v2-chambres-superieures >}}
+
+
+<h1 id="photos_restaurant">Restaurant</h1>
 
 {{< carousel-v2-restaurant >}}
 
 <h1 id="photos_jardins">The Gardens</h1>
 
-{{< carousel-v1-jardins >}}
+{{< carousel-v2-jardins >}}
 
 <!--
 # Photos

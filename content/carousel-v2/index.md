@@ -3,6 +3,7 @@ title: Carousel V2
 author: nico
 date: 2016-01-19
 lang: fr
+draft: true
 ---
 
 # Chambres Deluxes I
