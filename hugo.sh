@@ -32,11 +32,11 @@ github)
 
 hostpapa)
     OUT_PATH="$HOME/Sites/pousadajardimdosanjos/site-web-v3/"
-    rm -rf $OUT_PATH
+    # rm -rf $OUT_PATH
     echo "Génération des fichiers Hostpapa"
     hugo                                                                         \
         --destination=$OUT_PATH                                                  \
-        --baseURL="http://pontsdelumiere.net/pousadajardimdosanjos/site-web-v3/"
+        --baseURL="http://pousadajardimdosanjos.com/"
     ;;
 
 *)
