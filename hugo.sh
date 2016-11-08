@@ -20,7 +20,7 @@ github)
         echo -e "\n### Mise à jour du dépôt “site-web-v3”"
         git add .
         git commit -m "$COMMENT"
-        git push
+        # git push
         echo -e "\n### Mise à jour du dépôt “site-web-v3-hugosource"
         cd $OUT_PATH
         git add .
