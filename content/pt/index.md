@@ -63,7 +63,7 @@ Nossas tarifas incluem alojamento para uma pessoa, por dia, com 3 refeições.
 
 ## Taxas de adulto
 
-De R$ 120 para uma pessoa
+De R$ 120
 
 ## Taxas de crianças
 

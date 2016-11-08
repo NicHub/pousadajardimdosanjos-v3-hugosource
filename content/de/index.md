@@ -63,7 +63,7 @@ Unsere Preise beinhalten Unterkunft für eine Person, pro Tag, mit 3 Mahlzeiten
 
 ## Erwachsene
 
-Ab R$ 120 jede Person
+Ab R$ 120
 
 ## Kinder
 

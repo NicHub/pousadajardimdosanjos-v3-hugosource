@@ -63,7 +63,7 @@ Nos tarifs comprennent le logement par personne, par jour, avec 3 repas, <em>sa
 
 ## Tarifs adultes
 
-À partir de 120 R$ par personne
+À partir de 120 R$
 
 ## Tarifs enfants
 
@@ -88,6 +88,11 @@ Dès 14 ans : Tarif adulte
 {{< links >}}
 
 
+# Interview d’Hayette Weidmann, gérante de la pousada <i>Jardim dos Anjos</i>
+
+<iframe width="565" height="318" src="https://www.youtube-nocookie.com/embed/S0X9OpuTXzs?rel=0" frameborder="0" allowfullscreen></iframe>
+
+
 # Maison à louer
 
 ## Casa santuario
@@ -101,8 +106,4 @@ Contact: <a href="mailto:jardimdosanjos@yahoo.com.br">jardimdosanjos@yahoo.com.b
 ☺ Photos April Wood
 
 
-
-# Interview d’Hayette Weidmann, gérante de la pousada <i>Jardim dos Anjos</i>
-
-<iframe width="565" height="318" src="https://www.youtube-nocookie.com/embed/S0X9OpuTXzs?rel=0" frameborder="0" allowfullscreen></iframe>
 

@@ -63,7 +63,7 @@ Le nostre tariffe includono il pernottamento per una persona, al giorno, con 3 p
 
 ## Prezzi
 
-Da R$ 120 per persone
+Da R$ 120
 
 ## Prezzi per bambini
 

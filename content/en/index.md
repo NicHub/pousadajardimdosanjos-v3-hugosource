@@ -63,7 +63,7 @@ Our rates include accommodation for one person, per day, with 3 meals, <em>exce
 
 ## Adults rates
 
-From R$ 120 per person
+From R$ 120
 
 ## Children rates
 
