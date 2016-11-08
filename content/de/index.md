@@ -61,17 +61,9 @@ Wir freuen uns, sie bald zu treffen in der Pousada <i>Jardim dos Anjos</i> in Ab
 
 Unsere Preise beinhalten Unterkunft für eine Person, pro Tag, mit 3 Mahlzeiten, <em>ausser Sonntag Mittag</em>.
 
-## 1 Person pro Zimmer
+## Erwachsene
 
-R$ 105 auf R$ 165
-
-## 2 Personen pro Zimmer
-
-R$ 95 auf R$ 150 jede Person
-
-## 3 Personen pro Zimmer
-
-R$ 95 auf R$ 135 jede Person
+Ab R$ 120 jede Person
 
 ## Kinder
 

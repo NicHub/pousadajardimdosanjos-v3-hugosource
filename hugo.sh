@@ -40,11 +40,27 @@ hostpapa)
     ;;
 
 *)
-    IP=192.168.1.106
+    # Obtient l’adresse IP de l’interface utilisée par défaut.
+    # L’exécution est arrêtée si le port est utilisé.
+    if=$(route -n get 0.0.0.0 2>/dev/null | awk '/interface: / {print $2}')
+    if [ -n "$if" ]; then
+        echo "Default route is through interface $if"
+    else
+        echo "No default route found"
+    fi
+    IP=$( ipconfig getifaddr $if )
+    echo $IP
+    PORT=8080
+    PORTINUSE=$( lsof -i tcp:$PORT )
+    if [ -n "$PORTINUSE" ]; then
+        echo "$IP:$PORT already in use"
+        exit 1
+    fi
+
     hugo server                 \
         --baseURL="http://$IP/" \
         --bind=$IP              \
-        --port=8080             \
+        --port=$PORT            \
         --appendPort=true       \
         --theme pjda
     ;;

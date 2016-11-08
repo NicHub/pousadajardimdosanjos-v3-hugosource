@@ -61,17 +61,9 @@ Saremo ben lieti di incontrarvi presto alla <i>Pousada Jardim dos Anjos</i>.
 
 Le nostre tariffe includono il pernottamento per una persona, al giorno, con 3 pasti, <em>eccetto domenico mezzogiorno</em>.
 
-## 1 persona per camera
+## Prezzi
 
-R$ 105 a R$ 165
-
-## 2 persone per camera
-
-R$ 95 a R$ 150 per persone
-
-## 3 persone per camera
-
-R$ 95 a R$ 135 per persone
+Da R$ 120 per persone
 
 ## Prezzi per bambini
 

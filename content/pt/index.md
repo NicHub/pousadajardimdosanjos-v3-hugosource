@@ -61,17 +61,9 @@ Estamos muito felizes em conhecê-lo em breve no <i>Jardim Pousada dos Anjos</i>
 
 Nossas tarifas incluem alojamento para uma pessoa, por dia, com 3 refeições.
 
-## 1 pessoa por quarto
+## Taxas de adulto
 
-R$ 105 a R$ 165
-
-## 2 pessoas por quarto
-
-R$ 95 a R$ 150 per pessoas
-
-## 3 pessoas por quarto
-
-R$ 95 a R$ 135 per pessoas
+De R$ 120 para uma pessoa
 
 ## Taxas de crianças
 

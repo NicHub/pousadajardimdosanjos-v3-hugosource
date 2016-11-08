@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 {{ `<!--[if IE 7]>
-<html class="ie ie7" lang="fr-FR">
+<html class="ie ie7" lang="` | safeHTML }}{{ .Params.lang  }}{{ `">
 <![endif]-->
 <!--[if IE 8]>
-<html class="ie ie8" lang="fr-FR">
+<html class="ie ie8" lang="` | safeHTML }}{{ .Params.lang  }}{{ `">
 <![endif]-->
 <!--[if !(IE 7) | !(IE 8)  ]><!-->
-<!-- <html lang="fr-FR"> -->
-<html lang="fr-FR">
+<!-- <html lang="` | safeHTML }}{{ .Params.lang  }}{{ `"> -->
+<html lang="` | safeHTML }}{{ .Params.lang  }}{{ `">
 <!--<![endif]-->` | safeHTML }}
 
 <head>

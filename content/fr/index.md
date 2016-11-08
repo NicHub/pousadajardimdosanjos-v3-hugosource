@@ -61,17 +61,9 @@ Nous nous réjouissons beaucoup de vous accueillir prochainement à la pousada <
 
 Nos tarifs comprennent le logement par personne, par jour, avec 3 repas, <em>sauf le dimanche midi</em>.
 
-## 1 personne par chambre
+## Tarifs adultes
 
-105 R$ à 165 R$
-
-## 2 personnes par chambre
-
-95 R$ à 150 R$ par personne
-
-## 3 personnes par chambre
-
-95 R$ à 135 R$ par personne
+À partir de 120 R$ par personne
 
 ## Tarifs enfants
 
@@ -81,10 +73,12 @@ Nos tarifs comprennent le logement par personne, par jour, avec 3 repas, <em>sa
 
 Dès 14 ans : Tarif adulte
 
+
 <!--
 <h1 id="testimony">Témoignages</h1>
 -->
 <!-- Vide -->
+
 
 
 # Liens

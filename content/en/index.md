@@ -61,17 +61,9 @@ We look forward to seeing you at Pousada <i>Jardim dos Anjos</i> in Abadiânia!
 
 Our rates include accommodation for one person, per day, with 3 meals, <em>except lunch on Sunday</em>.
 
-## 1 person per room
+## Adults rates
 
-R$ 105 to R$ 165
-
-## 2 persons per room
-
-R$ 95 to R$ 150 per person
-
-## 3 persons per room
-
-R$ 95 to R$ 135 per person
+From R$ 120 per person
 
 ## Children rates
 
