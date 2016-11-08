@@ -17,15 +17,15 @@ github)
         COMMENT="Pas de commit sans commentaires !"
     else
         COMMENT=$2
-        echo -e "\n### Mise à jour du dépôt “site-web-v3”"
-        git add .
-        git commit -m "$COMMENT"
-        # git push
         echo -e "\n### Mise à jour du dépôt “site-web-v3-hugosource"
-        cd $OUT_PATH
         git add .
         git commit -m "$COMMENT"
         git push
+        # echo -e "\n### Mise à jour du dépôt “site-web-v3”"
+        # cd $OUT_PATH
+        # git add .
+        # git commit -m "$COMMENT"
+        # git push
     fi
     echo -e "\n### COMMENTAIRE = $COMMENT"
     ;;
