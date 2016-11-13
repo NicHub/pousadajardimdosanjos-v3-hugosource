@@ -19,6 +19,10 @@ Un salon pour se détendre et une salle de réunion pour les groupes.
 
 Nous nous réjouissons beaucoup de vous accueillir prochainement à la pousada <i>Jardim dos Anjos</i>.
 
+# Interview d’Hayette Weidmann, gérante de la pousada <i>Jardim dos Anjos</i>
+
+<iframe width="565" height="318" src="https://www.youtube-nocookie.com/embed/S0X9OpuTXzs?rel=0" frameborder="0" allowfullscreen></iframe>
+
 <h1 id="photos_chambres_deluxes_I">Les chambres Deluxes I</h1>
 
 {{< carousel-v2-chambres-deluxes-I >}}
@@ -86,11 +90,6 @@ Dès 14 ans : Tarif adulte
 ## Visitez nos amis !
 
 {{< links >}}
-
-
-# Interview d’Hayette Weidmann, gérante de la pousada <i>Jardim dos Anjos</i>
-
-<iframe width="565" height="318" src="https://www.youtube-nocookie.com/embed/S0X9OpuTXzs?rel=0" frameborder="0" allowfullscreen></iframe>
 
 
 # Maison à louer
